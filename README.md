@@ -1,4 +1,4 @@
-# NARUTO
+# NARUTO RASENGAN
 
 Hand-tracked jutsu activation with Naruto/Sasuke effects.
 
